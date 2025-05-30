@@ -12,7 +12,7 @@ A full-stack YouTube clone built using the MERN stack (MongoDB, Express.js, Reac
 
 ## Live Link for Frontend and backend
 
-- [live link frontend]()
+- [live link frontend](https://youtube-clone-frontend-theta.vercel.app/)
 - [live link backend](https://youtube-clone-bakend-1.onrender.com)
 
 ---
