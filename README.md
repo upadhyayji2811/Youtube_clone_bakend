@@ -17,7 +17,7 @@ A full-stack YouTube clone built using the MERN stack (MongoDB, Express.js, Reac
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```
 youtube_clone_backend
